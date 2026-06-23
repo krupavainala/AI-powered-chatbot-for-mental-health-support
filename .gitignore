@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+*.sqlite3
+.env
+
+# Logs
+*.log
+
+# Node (if frontend uses npm/yarn)
+node_modules/
+
+# Build & cache
+dist/
+build/
+*.egg-info/
+
+# Large assets & datasets
+dataset/
+data/
+models/
+*.h5
+*.pt
+*.ckpt
+*.zip
+*.tar.gz
+*.rar
+*.mp4
+*.wav
+*.avi
+*.mov
+*.jpg
+*.png
+
+# IDE/project settings
+.vscode/
+.idea/
+*.iml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+# Ignore Python virtual environment
+venv/
+
+# Ignore local model files
+local_model/
+
+# Ignore other big or temporary files
+*.safetensors
+*.dll
+*.lib
