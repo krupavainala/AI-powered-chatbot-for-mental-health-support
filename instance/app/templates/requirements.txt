@@ -1,0 +1,10 @@
+Flask-Session
+transformers>=4.39.0
+torch>=2.0.1
+Flask
+flask-cors
+requests
+transformers
+torch
+# add any other packages your project requires
+ 
